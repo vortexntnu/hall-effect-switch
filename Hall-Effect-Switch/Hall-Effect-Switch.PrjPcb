@@ -72,6 +72,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QVBIOJTB
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Hall-Effect-Switch\Design Rule Check - Hall-Effect-Switch.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
